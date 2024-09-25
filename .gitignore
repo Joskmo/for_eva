@@ -1,0 +1,8 @@
+bins
+*.pdf
+*.exe
+*.ilk
+*.obj
+*.pdb
+Makefile
+test.cpp
