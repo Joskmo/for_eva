@@ -6,8 +6,7 @@ using namespace std;
 void matrix_print(int** matrix, int size);
 
 int main() {
-    // setlocale(LC_ALL, "Russian");
-    setlocale(LC_ALL, "ru_RU.UTF-8");
+    /setlocale(LC_ALL, "Russian");
     int numbers[10];
 
     // Ввод чисел А1 ... А10
